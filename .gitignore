@@ -7,4 +7,4 @@ obj/
 # Files
 *.user
 Makefile
-*.vcxproj
+ImGui.vcxproj
